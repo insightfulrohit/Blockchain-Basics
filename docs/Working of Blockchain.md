@@ -38,8 +38,7 @@ The transaction becomes part of the chain
 ⬇️  
 Other blocks get added on top → giving **confirmations**  
 ⬇️  
-Once enough confirmations are received →  
-**The transaction is considered final!**
+Once enough confirmations are received → **The transaction is considered final!**
 
 ---
 
