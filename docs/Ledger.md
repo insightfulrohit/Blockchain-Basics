@@ -44,13 +44,13 @@ Use a ledger when you need an immutable, auditable, distributed record of events
 
 ### **3. Types of Ledgers**
 
-**A.Centralized Ledger:** Single authority (traditional bank ledger). Easy to change, trust on the operator.
+**(A)Centralized Ledger:** Single authority (traditional bank ledger). Easy to change, trust on the operator.
 
-**B.Distributed Ledger (DLT):** Copies of ledger are stored across multiple nodes (e.g., HLF, Corda). **Consensus** is used to synchronize state.
+**(B)Distributed Ledger (DLT):** Copies of ledger are stored across multiple nodes (e.g., HLF, Corda). **Consensus** is used to synchronize state.
 
-**C.Blockchain (a subset of DLT):** Ledger organized into blocks that reference previous blocks cryptographically (e.g., Bitcoin, Ethereum).
+**(C)Blockchain (a subset of DLT):** Ledger organized into blocks that reference previous blocks cryptographically (e.g., Bitcoin, Ethereum).
 
-**D.Permissionless vs Permissioned:**
+**(D)Permissionless vs Permissioned:**
 
   **Permissionless:** Anyone can join, read and write (e.g., Bitcoin, public Ethereum).
 
