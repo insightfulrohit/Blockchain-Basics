@@ -1,4 +1,4 @@
-### **What is Blockchain?**
+## **What is Blockchain?**
 
 Blockchain is a distributed and secure way of storing data.
 It consists of multiple blocks (you can imagine them as “boxes”) where each block stores a group of transactions or records.
