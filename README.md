@@ -32,4 +32,4 @@ _Note_: This is just an overview topic, we will go ahead and understand it in a 
 
 Let's Connect : https://www.linkedin.com/in/insightfulrohit/
 
-<img width="1692" height="1862" alt="Let&#39;s Connect LikedIn" src="https://github.com/user-attachments/assets/049f0e85-5fe5-478d-a5a2-e6ff90daa0dc" />
+<img width="200" height="200" alt="Let&#39;s Connect LikedIn" src="https://github.com/user-attachments/assets/049f0e85-5fe5-478d-a5a2-e6ff90daa0dc" />
