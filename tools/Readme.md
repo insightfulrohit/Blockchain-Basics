@@ -28,6 +28,7 @@ A simple, clean, and reliable Python script to **automatically search and downlo
 
 ## Requirements
 **Python in your system**
+
 Install required Python modules: **_pip install <module_name>_**
 
 ## How To Run
