@@ -315,6 +315,8 @@ If you skip this → **no 40LPA, period**.
 
 # 💰 WHEN DOES 40–50 LPA HAPPEN?
 
+Based on skills, this amount can be higher or lower
+
 * Junior auditor: 10–18 LPA
 * Mid auditor (real bugs): 20–30 LPA
 * Senior auditor / lead: **40–50+ LPA**
